@@ -7,10 +7,10 @@ Lui, K. K., Nunez, M. D., Cassidy, J. M., Vandekerckhove, J., Cramer, S. C., & S
 
 
 # RPDecision
-#### (Repository version 0.1.0)
+#### (Repository version 0.1.1)
 Timing of readiness potentials reflect a decision-making process in the human brain
 
-**Authors: Kitty K. Lui, Michael D. Nunez, Jessica M. Cassidy , Joachim Vandekerckhove, Steven C. Cramer, and Ramesh Srinivasan at the University of California, Irvine**
+**Authors: Kitty K. Lui, Michael D. Nunez, Jessica M. Cassidy, Joachim Vandekerckhove, Steven C. Cramer, and Ramesh Srinivasan at the University of California, Irvine**
 
 ### Prerequisites
 
@@ -30,7 +30,7 @@ The repository can also be may download via the _Download zip_ button above.
 
 ### License
 
-RPDecision is licensed under the MIT License and written by Kitty K. Lui, Michael D. Nunez, Jessica M. Cassidy , Joachim Vandekerckhove, Steven C. Cramer, and Ramesh Srinivasan at the University of California, Irvine
+RPDecision is licensed under the MIT License and written by Kitty K. Lui, Michael D. Nunez, Jessica M. Cassidy, Joachim Vandekerckhove, Steven C. Cramer, and Ramesh Srinivasan at the University of California, Irvine
 
 ### Further Reading
 
