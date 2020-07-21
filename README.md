@@ -7,7 +7,7 @@ Lui, K. K., Nunez, M. D., Cassidy, J. M., Vandekerckhove, J., Cramer, S. C., & S
 
 
 # RPDecision
-#### (Repository version 0.1.1)
+#### (Repository version 0.1.2)
 Timing of readiness potentials reflect a decision-making process in the human brain
 
 **Authors: Kitty K. Lui, Michael D. Nunez, Jessica M. Cassidy, Joachim Vandekerckhove, Steven C. Cramer, and Ramesh Srinivasan at the University of California, Irvine**
@@ -39,5 +39,5 @@ Nunez, M. D., Gosai, A., Vandekerckhove, J., & Srinivasan, R. (2019).
 
 ### EEG Data
 
-Artifact-correct EEG data from this study is found [here.](https://figshare.com)
+Artifact-correct EEG data from this study is available upon request.
 
