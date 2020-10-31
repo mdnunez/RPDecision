@@ -1,4 +1,4 @@
-%S2AFC_MODEL1 - Runs a new JAGS Model Type 1 with EEG inputs
+%S2AFC_BEHAVMODEL - Finds posterior distributions of parameters in a Hierarchical Drift Diffusion Model in JAGS with a lapse process
 
 %% Record of Revisions
 %   Date           Programmers               Description of change

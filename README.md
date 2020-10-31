@@ -2,12 +2,12 @@
 
 ### Citation
 
-Lui, K. K., Nunez, M. D., Cassidy, J. M., Vandekerckhove, J., Cramer, S. C., & Srinivasan, R. (2018).
-[Timing of readiness potentials reflect a decision-making process in the human brain.](https://www.biorxiv.org/content/early/2018/06/04/338806) bioRxiv. doi: 10.1101/338806
+Lui, K. K., Nunez, M. D., Cassidy, J. M., Vandekerckhove, J., Cramer, S. C., & Srinivasan, R. (2020).
+[Timing of readiness potentials reflect a decision-making process in the human brain.](https://www.biorxiv.org/content/10.1101/338806v2) bioRxiv. doi: 10.1101/338806
 
 
 # RPDecision
-#### (Repository version 0.1.2)
+#### (Repository version 0.2.0)
 Timing of readiness potentials reflect a decision-making process in the human brain
 
 **Authors: Kitty K. Lui, Michael D. Nunez, Jessica M. Cassidy, Joachim Vandekerckhove, Steven C. Cramer, and Ramesh Srinivasan at the University of California, Irvine**
@@ -35,7 +35,7 @@ RPDecision is licensed under the MIT License and written by Kitty K. Lui, Michae
 ### Further Reading
 
 Nunez, M. D., Gosai, A., Vandekerckhove, J., & Srinivasan, R. (2019).
-[The latency of a visual evoked potential tracks the onset of decision making.](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S1053811919303386) NeuroImage. doi: 10.1016/j.neuroimage.2019.04.052
+[The latency of a visual evoked potential tracks the onset of decision making.](https://www.sciencedirect.com/science/article/pii/S1053811919303386) NeuroImage. doi: 10.1016/j.neuroimage.2019.04.052
 
 ### EEG Data
 
