@@ -3,11 +3,11 @@
 ### Citation
 
 Lui, K. K., Nunez, M. D., Cassidy, J. M., Vandekerckhove, J., Cramer, S. C., & Srinivasan, R. (2020).
-[Timing of readiness potentials reflect a decision-making process in the human brain.](https://www.biorxiv.org/content/10.1101/338806v3) bioRxiv. doi: 10.1101/338806
+[Timing of readiness potentials reflect a decision-making process in the human brain.](https://link.springer.com/article/10.1007/s42113-020-00097-5) Computational Brain & Behavior.
 
 
 # RPDecision
-#### (Repository version 0.2.1)
+#### (Repository version 0.2.2)
 Timing of readiness potentials reflect a decision-making process in the human brain
 
 **Authors: Kitty K. Lui, Michael D. Nunez, Jessica M. Cassidy, Joachim Vandekerckhove, Steven C. Cramer, and Ramesh Srinivasan at the University of California, Irvine**
